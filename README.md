@@ -1,48 +1,100 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=SF+Pro+Display&weight=600&size=30&duration=3000&pause=900&color=F05138&center=true&vCenter=true&width=760&lines=iOS+Developer+from+%C4%B0stanbul;Shipping+apps+to+the+App+Store+solo;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+StoreKit+2)](https://github.com/hdeniz06)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3200&pause=900&color=E8E8ED&center=true&vCenter=true&width=760&height=56&lines=Bir+ki%C5%9Filik+st%C3%BCdyo.;Fikirden+App+Store'a.;Swift+ile+yaz%C4%B1ld%C4%B1.+%C4%B0stanbul'da." alt="Deniz İzol" />
+
+<br><br>
+
+<sub>DENİZ İZOL · iOS · SWIFT · INDIE</sub>
+
+<br><br><br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="assets/rizz-ai.png" width="76" alt="Rizz AI" />
+
+<br><br>
+
+**Rizz AI**
+
+<sub>Mesaj asistanı</sub>
+
+<br>
+
+<sub>4,2 ★ · 50 puan · 19 dil</sub>
+
+<br><br>
+
+<a href="https://apps.apple.com/tr/app/id6760116838">
+<img src="https://img.shields.io/badge/App%20Store-0B0B0F?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<img src="assets/mekan-defteri.png" width="76" alt="Mekan Defteri" />
+
+<br><br>
+
+**Mekan Defteri**
+
+<sub>Mahalleni öğren ve kaydet</sub>
+
+<br>
+
+<sub>Harita · SwiftData · CloudKit</sub>
+
+<br><br>
+
+<a href="https://apps.apple.com/tr/app/id6758963119">
+<img src="https://img.shields.io/badge/App%20Store-0B0B0F?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br><br>
 
 </div>
 
-```swift
-struct Deniz: Developer {
-    let name       = "Deniz İzol"
-    let role       = "Solo iOS Developer"
-    let location   = "İstanbul, Türkiye"
-    let languages  = ["Swift", "C++", "Python"]
-    let frameworks = ["SwiftUI", "StoreKit 2", "CoreML"]
-    let tooling    = ["Xcode", "Adapty", "Firebase"]
-    let studying   = "Computer Engineering"
+---
 
-    var currentFocus: String {
-        "Design, code, ASO, support — all of it, alone."
-    }
-}
-```
+<br>
 
-## 📱 On the App Store
+### Yapı
 
-| App | | |
-|---|---|---|
-| **MekanDefterim** | Save places, see them all on one map | [![App Store](https://img.shields.io/itunes/v/APP_ID_1?label=App%20Store&logo=appstore&logoColor=white&color=0D96F6)](https://apps.apple.com/app/idAPP_ID_1) |
-| **GlowTrack** | AI-assisted skincare tracking | [![App Store](https://img.shields.io/itunes/v/APP_ID_2?label=App%20Store&logo=appstore&logoColor=white&color=0D96F6)](https://apps.apple.com/app/idAPP_ID_2) |
-| **Holy Chat** | A quiet place for prayer and conversation | [![App Store](https://img.shields.io/itunes/v/APP_ID_3?label=App%20Store&logo=appstore&logoColor=white&color=0D96F6)](https://apps.apple.com/app/idAPP_ID_3) |
+<br>
 
-## 🛠 Stack
+`Swift`&#160;&#160;·&#160;&#160;`SwiftUI`&#160;&#160;·&#160;&#160;`StoreKit 2`&#160;&#160;·&#160;&#160;`Adapty`&#160;&#160;·&#160;&#160;`CloudKit`&#160;&#160;·&#160;&#160;`Python`&#160;&#160;·&#160;&#160;`C++`
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0C7CBE?style=for-the-badge&logo=swift&logoColor=white)
-![StoreKit 2](https://img.shields.io/badge/StoreKit%202-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Adapty](https://img.shields.io/badge/Adapty-2A63FF?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+<br>
 
-## 📫 Connect
+Fikir, tasarım, kod, paywall, App Store metni, görseller — hepsi tek kişi.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deniz-izol)
+<br><br>
+
+### Şu an
+
+<br>
+
+Üçüncü uygulama. Yapay zekâ tabanlı, abonelikli, yine Swift.
+
+<br><br>
+
+---
+
+<br>
 
 <div align="center">
 
-![Metrics](github-metrics.svg)
+<img src="github-metrics.svg" width="500" alt="metrics" />
+
+<br><br>
+
+<sub>
+<a href="https://apps.apple.com/tr/developer/id1876034200">App Store</a>&#160;&#160;·&#160;&#160;<a href="mailto:">vistalabs.dev@gmail.com</a>
+</sub>
 
 </div>
