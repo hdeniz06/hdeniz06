@@ -15,6 +15,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: hdeniz06
           config_timezone: Europe/Istanbul
+          config_display: large
+          base: header
+
           plugin_languages: yes
+          plugin_languages_limit: 4
+          plugin_languages_details: percentage
+          plugin_languages_ignored: objective-c, jupyter notebook, makefile, html, css, c
+
           plugin_isocalendar: yes
-          plugin_habits: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_lines: yes
