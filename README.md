@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="hero.svg?v=3" width="100%" alt="Deniz İzol — indie iOS developer" />
+<img src="hero.svg?v=4" width="100%" alt="Deniz İzol — indie iOS developer" />
 
 <br><br>
 
-<img src="stats.svg?v=1" width="100%" alt="GitHub activity" />
+<img src="stats.svg?v=2" width="100%" alt="GitHub activity" />
 
 <br><br>
 
